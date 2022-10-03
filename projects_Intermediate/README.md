@@ -20,7 +20,7 @@ As the title above suggests this folder is for projects. So if you are completel
 Follow all the rules and regulations given below otherwise your pull request will be made invalid.
 
 *  Push your projects folder to the particular domain folder.
-*  Name your folder according to format. ( `projectName_Your-Full-Name.Abbreviation` example: todo_John-Doe.WD ).
+*  Name your folder according to format. ( `projectName_Your-Full-Name` example: todo_John-Doe ).
 *  Multiple submissions of same project is not allowed.
 *  Give a brief description about the project in the pull request.
 *  Add a `README.md` file to your project with the following format:
@@ -60,7 +60,7 @@ Follow all the rules and regulations given below otherwise your pull request wil
 
    ```
 
-### **If you don't have any idea about what projects to start with or to have an idea about what kind of projects are acceptable for this folder then [click here](www.example.org).**
+### **If you don't have any idea about what projects to start with or to have an idea about what kind of projects are acceptable for this folder then [click here](https://github.com/Spectrum-CETB/Spectober_Fest/blob/main/projects_Intermediate/Project_Domain.md).**
 
 **Please go through the [README.md](https://github.com/Spectrum-CETB/Spectober_Fest/blob/main/README.md) and [CONTRIBUTION.md](https://github.com/Spectrum-CETB/Spectober_Fest/blob/main/CONTRIBUTION.md) before starting to contribute.**
 
